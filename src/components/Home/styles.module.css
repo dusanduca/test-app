@@ -1,0 +1,7 @@
+.home{
+    display: flex;
+    padding-top: 3rem;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
