@@ -5,10 +5,12 @@
      background-color: yellow;
 }
 
+
 .style_nav {
      font-size: 2rem;
      color: red;
      text-align: center;
+     margin-left: 5rem;
 }
 
 .list {
@@ -17,6 +19,7 @@
      font-size: 1.1rem;
      text-decoration: none;
      gap: 1rem;
+     margin-right: 3rem;
 }
 
 .link_nav{
