@@ -2,13 +2,13 @@
      display: flex;
      justify-content: space-between;
      align-items: center;
-     background-color: yellow;
+     background-color: rgb(215, 215, 223);
 }
 
 
 .style_nav {
      font-size: 2rem;
-     color: red;
+     color: rgb(134, 24, 24);
      text-align: center;
      margin-left: 5rem;
 }
@@ -24,4 +24,6 @@
 
 .link_nav{
      text-decoration: none;
+     color: black;
+     font-weight: bold;
 }

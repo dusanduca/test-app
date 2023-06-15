@@ -3,5 +3,35 @@
     padding-top: 3rem;
     justify-content: space-between;
     flex-wrap: wrap;
+    height: 10rem;
 }
 
+.todo_container > ul {
+    list-style: none;
+}
+
+.todo_container > input {
+    width: 18rem;
+    height: 1.2rem;
+    border-radius: 0.5rem;
+}
+
+.todo_container > button {
+    border-radius: 0.7rem;
+    width: 4rem;
+    height: 1.6rem;
+    color: rgb(94, 92, 92);
+}
+
+.main_list {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.list-item{
+    text-decoration: line-through;
+}
+
+.main_list > button {
+    border: none;
+}

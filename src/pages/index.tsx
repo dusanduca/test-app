@@ -8,7 +8,9 @@ const Index: NextPageWithLayout = () => {
 };
 
 Index.getLayout = function getLayout(page: any) {
-  return <Layout>{page}</Layout>;
+  return  <Layout>{page}</Layout>; 
 };
+
+
 
 export default Index;

@@ -9,9 +9,11 @@ interface LayoutProps {
 export default function Layout({ children }: LayoutProps) {
   return (
     <>
+      <div style={{height: "100vh"}}>
       <Navbar />
       <main>{children}</main>
       <Footer />
+      </div>
     </>
   );
 }
