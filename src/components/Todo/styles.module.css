@@ -3,7 +3,7 @@
     padding-top: 3rem;
     justify-content: space-between;
     flex-wrap: wrap;
-    height: 60vh;
+    height: 10rem;
 }
 
 .todo_container > ul {

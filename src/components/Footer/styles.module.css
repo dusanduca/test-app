@@ -1,7 +1,10 @@
 .footer_container{
     display: flex;
-    padding-top: 12.5rem;
-    align-items: flex-end;
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(197, 189, 176);
+    width: 100%;
+    margin: 0;
 }
 
 .footer_left{
